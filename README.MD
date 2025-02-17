@@ -34,23 +34,7 @@ This is a simple and modern eCommerce project built with Bootstrap. It is design
    git clone https://github.com/shahaj90/bootstrap-ecommerce-template.git
    ```
 
-2. **Navigate to the project directory:**
-
-   ```bash
-   cd bootstrap-ecommerce
-   ```
-
-3. **Open the project in your code editor:**
-   Open the folder in your preferred code editor (e.g., VSCode).
-
-4. **Install dependencies (optional):**
-   If you are using Node.js for additional tools, install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-5. **Run the project locally:**
+2. **Run the project locally:**
    Open `index.html` in your browser or use a live server (e.g., Live Server extension for VSCode).
 
 ---
